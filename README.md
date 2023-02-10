@@ -29,3 +29,7 @@ msg = "Your message!"
 
 
 ```
+
+# Attention!
+
+Before using the Twilio sending API, read the usage rules and limits: [Rules](https://support.twilio.com/hc/en-us/articles/360024008153-WhatsApp-Rate-Limiting#:~:text=If%20you%20exceed%20the%20limit,the%20limit%20at%20this%20time)
